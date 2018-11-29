@@ -1,3 +1,4 @@
 baseURL = "http://example.org/"
 defaultContentLanguage = "ja"
 title = "My New Hugo Site"
+theme = "quick"
